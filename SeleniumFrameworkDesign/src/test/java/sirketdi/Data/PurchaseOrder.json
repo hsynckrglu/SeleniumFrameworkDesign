@@ -1,0 +1,17 @@
+[ 
+//köşeli parantezle açılıyor sonrasında yazmak istediklerimi süslü parantezler içinde yaz<ıyorum araya virgül koyuyorum
+{
+   "email" : "example28@gmail.com",
+   "password":"123456Hc.",
+   "productName":"ZARA COAT 3"
+},
+
+{ 
+   "email" : "example28@gmail.com",
+   "password":"123456Hc.",
+   "productName":"ADIDAS ORIGINAL"
+}
+
+
+
+]
